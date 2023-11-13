@@ -1,4 +1,6 @@
 ### What's up! I'm Carlos! 👋
 
-- ⚡ I’m currently working on improving my language skills
-- 🖥️ I’m currently learning and working with SQL, Excel, Tableau and Python as a Data Scientist
+  ⚡ Working with Data since 2022;
+  🔧 And I love Data!
+  🖥️ Experience using SQL, Python, Apache Spark, AWS, Google Cloud, R, Excel, Tableau and Power BI
+  ↗️ Finished the Google Data Analytics and Business Intelligence Certificate
